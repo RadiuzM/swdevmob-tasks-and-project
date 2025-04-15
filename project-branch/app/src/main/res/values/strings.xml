@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit Reminder App</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
